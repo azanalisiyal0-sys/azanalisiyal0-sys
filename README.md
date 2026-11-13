@@ -1,11 +1,11 @@
-<!-- Typing SVG Header Banner -->
+<!-- Typing Header Banner -->
 <div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  I am a student learning frontend development and building interactive web projects step-by-step to sharpen my UI/UX and coding skills.
-</p>
+[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+
+I am a student learning frontend development and building interactive web projects step-by-step to sharpen my UI/UX and coding skills.
+
+</div>
 
 ---
 
@@ -17,13 +17,11 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</p>
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 ---
 
@@ -34,20 +32,16 @@
 
 ---
 
-### 📊 GitHub Stats (Tokyo Night Theme)
-<p align="center">
-  <img height="165" src="https://vercel.app" alt="Azan's GitHub Stats" />
-  <img height="165" src="https://vercel.app" alt="Top Languages" />
-</p>
+### 📊 GitHub Stats
+<div align="center">
+
+![Azan's GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
+
+</div>
 
 ---
 
 ### 🤝 Connect With Me
-<p align="left">
-  <a href="https://github.com/azanalisiyal0-sys" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+[![GitHub](https://shields.io)](https://github.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
