@@ -1,47 +1,31 @@
-<!-- Typing Header Banner -->
-<div align="center">
+well I have created a repo with exact my username and it is already containing this in it's readme.md file
 
-[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
 
-I am a student learning frontend development and building interactive web projects step-by-step to sharpen my UI/UX and coding skills.
+## Hi, I'm Azan Ali
 
-</div>
+I am a student learning frontend development 
+and building projects with HTML, CSS and 
+JavaScript.
 
----
+## Current Focus 
+- Learning JavaScript
+- Build real projects
+- Improving UI/UX skills
 
-### 🚀 Current Focus
-- 🔭 Building real-world projects with **HTML, CSS, and JavaScript**
-- 🌱 Deepening my understanding of modern **JavaScript**
-- 🎨 Improving **UI/UX design** and responsive layouts
+## Technologies
+- HTML
+- CSS
+- JavaScript
 
----
+## Projects
+- Art GAllery V2 - Responsive gallery website
+with filtering and interactive design.
 
-### 🛠️ Tech Stack & Tools
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+## Learning Journey
+I am currently learning web development and 
+building projects step-by-step to improve my 
+skills.
 
----
-
-### 💻 Featured Projects
-- **[Art Gallery V2](https://github.com)** — Responsive gallery website featuring category filtering and interactive design.
-- **[Digital Timer](https://github.com)** — Clean, functional web-based timer application.
-- **[Larkana Bay BBQ](https://github.com)** — Digital menu showcase site with a responsive layout.
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-![Azan's GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
-
-</div>
-
----
-
-### 🤝 Connect With Me
-[![GitHub](https://shields.io)](https://github.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+## Connect
+GitHub: 
+https://github.com/azanalisiyal0-sys
