@@ -1,6 +1,3 @@
-well I have created a repo with exact my username and it is already containing this in it's readme.md file
-
-
 ## Hi, I'm Azan Ali
 
 I am a student learning frontend development 
